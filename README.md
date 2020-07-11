@@ -1,6 +1,6 @@
 # 👋 
 
-Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
+Hi, I'm Rishabh Malik and I ❤ Coding, going to Hackathons, and working on Innovative ideas! 😊
 
 ## 🧔 - About
 
